@@ -1,15 +1,24 @@
 .header{
     height: 500px;
-    background-color: #D8ECD5;
+    background-color: #E4F0E3
+}
+.catagory{
+    margin-top: 50px;
 }
 .header-bg{
-    background-color: #D8ECD5;
+    background-color: #E4F0E3
 }
 .img-icon{
     width: 250px;
 }
 .text-color a{
     color:black;
+}
+.text-color-orange{
+    color: orange
+}
+.text-color-green{
+    color: #28a745;
 }
 .sign-button{
     color: #fff;
@@ -28,5 +37,73 @@
 }
 .banner-img img{
     width: 550px;
-    margin-top: 25px;
+    margin-top: 20px;
+}
+.book1, .book3, .book4{
+    padding: 100px 30px;
+    border-radius: 5px;
+}
+.book1{
+    background-color:#F5FAF8
+}
+.book2{
+    padding: 100px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px lightgrey;
+}
+.book3{
+    background-color:#F5FAF8
+}
+.book4{
+    background-color:#F5FAF8
+}
+.book-img{
+    width: 70px;
+    height: 80px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+}
+.calender-img{
+    width: 20px;
+    height: 20px;
+}
+.card-deck{
+    margin-top: 40px;
+}
+.card{
+    border: none;
+    border-radius: 9px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px lightgrey;
+}
+.card-footer{
+    border: none;
+    background-color: #fff;
+}
+.testimonial{
+    height: 300px;
+}
+.testimonial-text{
+    margin-top: 50px;
+}
+.man-text{
+    margin-top: 20px;
+}
+.man-img{
+    width: 100px;
+    height: 100px;
+}
+.bottom{
+    color: #fff;
+    height: auto;
+    background-color: #1C1D20;
+}
+.bottom-margin{
+    margin-top: 50px;
+}
+footer{
+    color: #fff;
+    border-radius: none;
+    text-align: center;
+    background-color: #1C1D20;
 }
